@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao perfil do Github de Rayana👋
+## Olá, bem-vindo ao perfil do GitHub de Rayana👋
 
 - 🔭Atualmente estou trabalhando em projetos Front-end da Neoenergia Elektro
 - 🌱Atualmente estou aprendendo a Linguagem de Programção Angular
