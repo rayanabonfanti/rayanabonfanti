@@ -1,8 +1,8 @@
 ## Olá, bem-vinda(o) ao perfil do GitHub de Rayana👋
 
-- 🔭Atualmente estou trabalhando em projetos Front-end da Neoenergia Elektro
-- 🌱Atualmente estou aprendendo a Linguagem de Programação Angular
-- 📫Como me contatar: rayanabonfanti@gmail.com / Rayana.Bonfanti@br.ey.com / https://www.linkedin.com/in/rayanabonfanti/
+- 🔭Atualmente estou trabalhando em projetos back-end da Neoenergia MultiLogin - com algumas extensões de projetos front-end
+- 🌱Atualmente estou aprendendo a Linguagem de Programação Java e Typescrypt com framework Angular
+- 📫Como me contatar: rayanabonfanti@gmail.com / https://www.linkedin.com/in/rayanabonfanti/
 
 <div align="center">
   <a href="https://github.com/rayanabonfanti">
