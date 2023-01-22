@@ -19,7 +19,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img align="center" height="40" width="40" src="https://img.icons8.com/arcade/64/null/sql.png">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/postgree-original.svg">  
+  <img align="center" height="40" width="40" src="https://img.icons8.com/external-others-amoghdesign/24/null/external-postgres-soleicons-fill-vol-1-others-amoghdesign.png">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
