@@ -1,7 +1,7 @@
 ## Olá, bem-vinda(o) ao perfil do GitHub de Rayana👋
 
 - 🔭Atualmente estou trabalhando em projetos full stack na EY (Ernst & Young)
-- 🌱Atualmente estou aprendendo Java (Spring Boot e Spring Security), Typescrypt/Javascript, SQL e os frameworks Angular e Spring Boot
+- 🌱Atualmente estou aprendendo Java, Spring Boot, SQL e Docker
 - 📫Como me contatar: rayanabonfanti@gmail.com / https://www.linkedin.com/in/rayana-r-bonfanti-103994156/
 
 <div align="center">
