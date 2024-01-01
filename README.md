@@ -1,6 +1,6 @@
 ## Olá, bem-vinda(o) ao perfil do GitHub de Rayana👋
 
-- 🔭Atualmente estou trabalhando em projetos backend (Java, Spring Boot, Microsserviço, NoSQL) para um cliente de banco na EY (Ernst & Young)
+- 🔭Atualmente estou trabalhando como backend (Spring Boot, Microsserviço, NoSQL) para um cliente de banco na EY (Ernst & Young)
 - 🌱Atualmente estou aprendendo MongoDB, NoSQL, Microservice, Docker, Kubernete e Cloud.
 - 📫Como me contatar: rayanabonfanti@gmail.com / https://www.linkedin.com/in/rayana-r-bonfanti-103994156/
 
