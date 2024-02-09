@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou rayana 👋 Hi, I'm Rayana</h1>
 
+
 - 🔭 PT: Eu sou Engenheira de Software, atualmente estou trabalhando para Serasa Experian - Brasil. Estou principalmente focada em Backend, mas as vezes mexo com Angular e Kotling Web e Mobile.
   
 EN: I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular and Kotlin Web and Mobile.
@@ -11,11 +12,11 @@ EN: Currently I'm learning Docker, Kubernete, Messaging Queue and Cloud.
 EN: Contact me at: rayanabonfanti@gmail.com 
 
 
+Links
+
 CV English -> [Curriculum]() 
 
 CV Português -> [Currículo]()
-  
-My Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
 
