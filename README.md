@@ -1,4 +1,4 @@
-## Olá, eu sou rayana 👋 Hi, I'm Rayana
+<h1 style="text-align:center;">Olá, eu sou rayana 👋 Hi, I'm Rayana</h1>
 
 - 🔭 PT: Eu sou Engenheira de Software, atualmente estou trabalhando para Serasa Experian - Brasil. Estou principalmente focada em Backend, mas as vezes mexo com Angular e Kotling Web e Mobile.
   
