@@ -10,6 +10,16 @@ EN: Currently I'm learning Docker, Kubernete, Messaging Queue and Cloud.
 
 EN: Contact me at: rayanabonfanti@gmail.com 
 
+UPDATED 01/31/2024
+
+CV English -> [Curriculum]() 
+
+CV Português -> [Currículo]()
+  
+My Links
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
