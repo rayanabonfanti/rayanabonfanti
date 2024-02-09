@@ -9,7 +9,7 @@
   EN: Currently I'm learning Messaging Queue, Cloud, Docker and Kubernete.
 - 📫 PT: Como me contatar.
 
-  EN: Contact me at: rayanabonfanti@gmail.com 
+  EN: Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
 
 
 <h3>Links</h3>
