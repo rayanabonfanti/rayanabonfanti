@@ -4,9 +4,9 @@
 - 🔭 PT: Eu sou Engenheira de Software, atualmente estou trabalhando para Serasa Experian - Brasil. Estou principalmente focada em Backend, mas as vezes mexo com Angular e Kotling Web e Mobile.
 
   EN: I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular and Kotlin Web and Mobile.
-- 🌱 PT: Atualmente estou aprendendo Docker, Kubernete, Mensageria em Fila e Cloud.
+- 🌱 PT: Atualmente estou aprendendo Mensageria em Fila, Cloud, Docker e Kubernete.
 
-  EN: Currently I'm learning Docker, Kubernete, Messaging Queue and Cloud.
+  EN: Currently I'm learning Messaging Queue, Cloud, Docker and Kubernete.
 - 📫 PT: Como me contatar.
 
   EN: Contact me at: rayanabonfanti@gmail.com 
