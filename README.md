@@ -8,7 +8,7 @@ EN: I'm a software engineer currently working for Serasa Experian - Brazil. I'm 
 EN: Currently I'm learning Docker, Kubernete, Messaging Queue and Cloud.
 - 📫 PT: Como me contatar.
 
-EN: Contact me at: rayanabonfanti@gmail.com / https://www.linkedin.com/in/rayana-r-bonfanti-103994156/
+EN: Contact me at: rayanabonfanti@gmail.com 
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
