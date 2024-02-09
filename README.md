@@ -10,7 +10,6 @@ EN: Currently I'm learning Docker, Kubernete, Messaging Queue and Cloud.
 
 EN: Contact me at: rayanabonfanti@gmail.com 
 
-UPDATED 01/31/2024
 
 CV English -> [Curriculum]() 
 
