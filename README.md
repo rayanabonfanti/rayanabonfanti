@@ -12,7 +12,7 @@
   EN: Contact me at: rayanabonfanti@gmail.com 
 
 
-Links
+<h2>Links</h2>
 
 CV English -> [Curriculum]() 
 
