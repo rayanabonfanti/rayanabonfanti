@@ -14,9 +14,9 @@
 
 <h3>Links</h3>
 
-CV English -> [Curriculum](https://docs.google.com/document/d/1rtUWRTXVqqstaiUGwfbICnUvN2jEJD0D/edit?usp=drive_link&ouid=115083074598686078110&rtpof=true&sd=true) 
+CV English -> [Curriculum](https://docs.google.com/document/d/13tcsns6ikSWKctVm5xCmHyzFiiWxHMVo/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true) 
 
-CV Português -> [Currículo](https://docs.google.com/document/d/1n43fOwrfe9o_Y1nesqQhFaKDy4jgVcgd/edit?usp=drive_link&ouid=115083074598686078110&rtpof=true&sd=true)
+CV Português -> [Currículo](https://docs.google.com/document/d/16n8WWCpRO6YENOJ-oAqyzpPDYNZSMgIY/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
 
