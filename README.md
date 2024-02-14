@@ -1,5 +1,6 @@
 <h1 align="center">Olá, eu sou Rayana 👋 Hi, I'm Rayana</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanabonfanti&label=Profile%20views&color=0e75b6&style=flat" alt="rayanabonfanti" /> </p>
 
 - 🔭 PT: Eu sou Engenheira de Software, atualmente estou trabalhando para Serasa Experian - Brasil. Estou principalmente focada em Backend, mas as vezes mexo com Angular e Kotling Web e Mobile.
 
