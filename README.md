@@ -4,7 +4,7 @@
 
 - 🔭 I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular and Kotlin Web and Mobile.
 - 🌱 Currently I'm learning Messaging Queue, Cloud, Docker and Kubernete.
-- 📫 EN: Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
+- 📫 Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
 
 
 <h3>Links</h3>
