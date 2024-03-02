@@ -1,23 +1,17 @@
-<h1 align="center">Olá, eu sou Rayana 👋 Hi, I'm Rayana</h1>
+<h1 align="center">👋 Hi, I'm Rayana</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanabonfanti&label=Profile%20views&color=0e75b6&style=flat" alt="rayanabonfanti" /> </p>
 
-- 🔭 PT: Eu sou Engenheira de Software, atualmente estou trabalhando para Serasa Experian - Brasil. Estou principalmente focada em Backend, mas as vezes mexo com Angular e Kotling Web e Mobile.
-
-  EN: I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular and Kotlin Web and Mobile.
-- 🌱 PT: Atualmente estou aprendendo Mensageria em Fila, Cloud, Docker e Kubernete.
-
-  EN: Currently I'm learning Messaging Queue, Cloud, Docker and Kubernete.
-- 📫 PT: Como me contatar.
-
-  EN: Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
+- 🔭 I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular and Kotlin Web and Mobile.
+- 🌱 Currently I'm learning Messaging Queue, Cloud, Docker and Kubernete.
+- 📫 EN: Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
 
 
 <h3>Links</h3>
 
 CV English -> [Curriculum](https://docs.google.com/document/d/13tcsns6ikSWKctVm5xCmHyzFiiWxHMVo/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true) 
 
-CV Português -> [Currículo](https://docs.google.com/document/d/16n8WWCpRO6YENOJ-oAqyzpPDYNZSMgIY/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
+CV Portuguese -> [Currículo](https://docs.google.com/document/d/16n8WWCpRO6YENOJ-oAqyzpPDYNZSMgIY/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
 
