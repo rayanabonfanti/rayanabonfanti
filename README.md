@@ -38,7 +38,6 @@ Cloud
 ![Azure](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanabonfanti&show_icons=true&locale=en" alt="rayanabonfanti" /></p>
