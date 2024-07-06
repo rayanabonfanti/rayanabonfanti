@@ -4,7 +4,7 @@
 
 - 🔭 I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
 - 🌱 Currently I'm learning gRPC, Spring Batch, Cloud and Observability (Grafana, Prometheus).
-- 📫 Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
+- 📫 Contact me at: ✉️ rayana.developer@gmail.com - 📱 +55 (19) 99402-9121
 
 
 <h3>Links</h3>
