@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanabonfanti&label=Profile%20views&color=0e75b6&style=flat" alt="rayanabonfanti" /> </p>
 
 - 🔭 I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
-- 🌱 Currently I'm learning Kubernetes, Flutter (Dart), Go and Kafka/RabbitMQ.
+- 🌱 Currently I'm learning Jenkins (CI/CD), Kubernetes, Flutter (Dart), Go and Kafka/RabbitMQ.
 - 📫 Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
 
 
