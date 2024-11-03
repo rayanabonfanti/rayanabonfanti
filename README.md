@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanabonfanti&label=Profile%20views&color=0e75b6&style=flat" alt="rayanabonfanti" /> </p>
 
-- 🔭 I'm a software engineer currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
+- 🔭 I'm a software engineer for over 3 years, currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
 - 🌱 Currently I'm learning Docker/Kubernete, Jenkins (CI/CD), Kafka and Observability.
 - 📫 Contact me at: ✉️ rayanabonfanti@gmail.com - 📱 +55 (19) 99402-9121
 
