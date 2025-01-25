@@ -13,6 +13,8 @@ CV English -> [Curriculum](https://docs.google.com/document/d/13tcsns6ikSWKctVm5
 
 CV Português -> [Currículo](https://docs.google.com/document/d/1liAfcmN6TergzCbtqlUKp8EeW85qlZSU/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
 
+CV Italiano -> [Curriculum](https://docs.google.com/document/d/1QQLo3XBMbV0f-ZCUSX73NAjcTG9l_Oe0/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
 
 Frameworks
