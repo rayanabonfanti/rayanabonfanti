@@ -4,7 +4,7 @@
 
 - 🔭 I'm a software engineer for over 3 years, currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
 - 🌱 Currently I'm learning Docker/Kubernete, Jenkins (CI/CD), Kafka and Observability.
-- 📫 Contact me at: ✉️ rayanabonfanti@gmail.com 
+- 📫 Contact me at: ✉️ rayana.developer@gmail.com
 
 
 <h3>Links</h3>
