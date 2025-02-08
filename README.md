@@ -4,7 +4,7 @@
 
 - 🔭 I'm a software engineer for over 3 years, currently working for Serasa Experian - Brazil. I'm mainly focused on Backend, but sometimes I play around with Angular Web.
 - 🌱 Currently I'm learning Docker/Kubernete, Jenkins (CI/CD), Kafka and Observability.
-- 📫 Contact me at: ✉️ rayana.developer@gmail.com
+- 📫 Contact me at: ✉️ rayana.developer@gmail.com / My Profile: https://docs.google.com/document/d/1QQLo3XBMbV0f-ZCUSX73NAjcTG9l_Oe0/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true
 
 
 <h3>Links</h3>
@@ -14,6 +14,7 @@ CV English -> [Curriculum](https://docs.google.com/document/d/13tcsns6ikSWKctVm5
 CV Português -> [Currículo](https://docs.google.com/document/d/1liAfcmN6TergzCbtqlUKp8EeW85qlZSU/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
 
 CV Italiano -> [Curriculum](https://docs.google.com/document/d/1QQLo3XBMbV0f-ZCUSX73NAjcTG9l_Oe0/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
 [![YouTube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsrayanabonfanti)
