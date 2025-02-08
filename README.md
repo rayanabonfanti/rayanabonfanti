@@ -16,6 +16,7 @@ CV Português -> [Currículo](https://docs.google.com/document/d/1liAfcmN6TergzC
 CV Italiano -> [Curriculum](https://docs.google.com/document/d/1QQLo3XBMbV0f-ZCUSX73NAjcTG9l_Oe0/edit?usp=sharing&ouid=115083074598686078110&rtpof=true&sd=true)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayana-r-bonfanti-103994156/)
+[![YouTube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itsrayanabonfanti)
 
 Frameworks
 
